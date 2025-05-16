@@ -1,6 +1,4 @@
 # AI
-Great! Here’s a simple, beginner-friendly **AI Technologies Course Outline** designed for both self-learning and teaching others. It’s structured to start from the very basics and gradually build up to advanced agentic workflows, all while avoiding overwhelm.
-
 ---
 
 ## 🧠 AI Technologies Course Outline (Beginner to Agentic Workflows)
